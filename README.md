@@ -1,4 +1,5 @@
 ### Yoo, I'm Dizzzy Chen 👋
+Casbin明日之星预选生计划-Talent for Casbin 2024 入选者 Jcasbin社区开源贡献者
 [![DizzzyChen](https://github-readme-stats.vercel.app/api?username=D1zzzY1)](https://github.com/anuraghazra/github-readme-stats) 
 ![DizzzyChen's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D1zzzY1&layout=compact&hide_border=true&langs_count=10)
 <!--
